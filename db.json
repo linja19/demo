@@ -10,5 +10,15 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "users/details": {
+    "code": 200,
+    "message": "successful operation",
+    "data": {
+      "userName": "Alice",
+      "userEmail": "alice@mail.cn",
+      "userPhone": "01234567",
+      "userImage": "https://picsum.photos/200"
+    }
   }
 }
